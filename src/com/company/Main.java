@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Temat: Rozwiązywanie równań pierwszego, drugiego i trzeciego stopnia. Implementacja  w języku Java.
- *
+ * <p>
  * Założenia: Program będzie pobierał od użytkownika wartości a,b,c,d po uprzednim wybraniu rodzaju funkcji, którą chce obliczyć,
  * a następnie będzie obliczać, na podstawie wzorów zawartych w programie i wyświetlać wyniki na ekranie.
  */
